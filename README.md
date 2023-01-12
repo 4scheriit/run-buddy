@@ -12,3 +12,5 @@ https://4scheriit.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by 4scheriit
+
+# Run Buddy Inc.
